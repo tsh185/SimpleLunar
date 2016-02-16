@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\ChineseCalendarDB.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="17437" topLine="185" />
+	</File>
+	<File name="..\ChineseCalendarDB.h" open="1" top="0" tabpos="3">
+		<Cursor position="1478" topLine="26" />
+	</File>
+	<File name="..\ChineseCalendar_example.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3122" topLine="64" />
+	</File>
+	<File name="..\ChineseDate.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="579" topLine="0" />
+	</File>
+	<File name="..\ChineseDate.h" open="1" top="1" tabpos="4">
+		<Cursor position="23645" topLine="445" />
+	</File>
+</CodeBlocks_layout_file>

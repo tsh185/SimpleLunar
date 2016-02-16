@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1256029178 source:e:\chinesecalendar\chinesecalendar_example.cpp
+	<iostream>
+	<string>
+	"SolarDate.h"
+	"ChineseDate.h"
+
+1256017430 e:\chinesecalendar\solardate.h
+	<cassert>
+
+1256029501 e:\chinesecalendar\chinesedate.h
+	<iostream.h>
+	<cassert>
+	"ChineseCalendarDB.h"
+
+1256021506 e:\chinesecalendar\chinesecalendardb.h
+	<exception>
+
+1256017467 source:e:\chinesecalendar\chinesedate.cpp
+	"ChineseDate.h"
+	"ChineseCalendarDB.h"
+	"SolarDate.h"
+
+1256017440 source:e:\chinesecalendar\solardate.cpp
+	"SolarDate.h"
+	"ChineseDate.h"
+
+1256021590 source:e:\chinesecalendar\chinesecalendardb.cpp
+	"ChineseCalendarDB.h"
+
+1193991326 source:e:\chinesecalendar\chinesecalendar\main.cpp
+	<iostream>
+
